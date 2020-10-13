@@ -72,14 +72,14 @@
 <url> <loc>http://localhost:9000/en/resources/engineering/navigation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/resources/engineering/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/resources/engineering/translations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:9000/en/contribute/governance_and_risk_meetings/take-notes/call-template-governance-and-risk-meetings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:9000/en/contribute/governance_and_risk_meetings/take-notes/formatting-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:9000/en/contribute/governance_and_risk_meetings/take-notes/note-taking-team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/resources/technical-content/content-design-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/resources/technical-content/frontmatter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/resources/technical-content/icons-recipes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/resources/technical-content/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/resources/technical-content/installation-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost:9000/en/contribute/governance_and_risk_meetings/take-notes/call-template-governance-and-risk-meetings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost:9000/en/contribute/governance_and_risk_meetings/take-notes/formatting-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost:9000/en/contribute/governance_and_risk_meetings/take-notes/note-taking-team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/learn/Dai/get-dai/borrow-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/learn/Dai/get-dai/buy-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:9000/en/learn/Dai/get-dai/earn-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
