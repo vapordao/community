@@ -34,8 +34,8 @@
 <url> <loc>https://community-development.makerdao.com/en/funding/community-projects/cdips-visual/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/community-projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/development-grants/development-grants-info/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/funding/development-grants/grantee-playbook/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/development-grants/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/funding/development-grants/grantee-playbook/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/dsr/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/get-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -89,8 +89,8 @@
 <url> <loc>https://community-development.makerdao.com/en/faqs/mkr-token/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/oracles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/vault/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/contribute/content/contributor-tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/content/using-github-one-off/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/contribute/content/contributor-tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/content/using-github/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/governance_and_risk_meetings/summaries/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/use-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
