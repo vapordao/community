@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://community-development.makerdao.com/en/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/contribute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/dsr/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/contribute/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/glossary/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/stability-fee/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/hackathon-funding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -25,9 +25,9 @@
 <url> <loc>https://community-development.makerdao.com/en/contribute/meetups/getting-started-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/meetups/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/meetups/promotion-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/contribute/translations/editors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/translations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/translations/translators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/contribute/translations/editors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/community-projects/cdips-decisions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/community-projects/cdips-process/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/community-projects/cdips-visual/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -45,11 +45,6 @@
 <url> <loc>https://community-development.makerdao.com/en/learn/Oracles/how-it-works/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Oracles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Oracles/security/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/learn/blockchain-fundamentals/daos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/learn/blockchain-fundamentals/ethereum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/learn/blockchain-fundamentals/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/learn/blockchain-fundamentals/stablecoins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/learn/blockchain-fundamentals/wallets/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/collateral-and-risk/dai-credit-system/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/collateral-and-risk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/collateral-and-risk/risk-teams/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -64,6 +59,11 @@
 <url> <loc>https://community-development.makerdao.com/en/learn/vaults/risk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/vaults/stability-fees/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/vaults/vaults-tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/resources/blockchain-fundamentals/daos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/resources/blockchain-fundamentals/ethereum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/resources/blockchain-fundamentals/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/resources/blockchain-fundamentals/stablecoins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/resources/blockchain-fundamentals/wallets/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/resources/content/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/resources/engineering/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/resources/engineering/language/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
