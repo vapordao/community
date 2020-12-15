@@ -35,6 +35,8 @@
 <url> <loc>https://community-development.makerdao.com/en/funding/development-grants/development-grants-info/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/development-grants/grantee-playbook/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/funding/development-grants/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/funding/merchant-directory/accept/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/funding/merchant-directory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/dsr/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/get-dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/Dai/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -113,8 +115,8 @@
 <url> <loc>https://community-development.makerdao.com/en/resources/technical-content/palette-recipes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/faqs/governance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/contribute/content/writing-style-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/learn/governance/gov-risk-framework2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/governance-faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/learn/governance/gov-risk-framework2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/vaults/vault-onboarding-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
